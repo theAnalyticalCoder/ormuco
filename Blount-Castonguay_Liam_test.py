@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 17 15:14:31 2021
 
-@author: liam
-"""
 
 def overlap(x1,x2,x3,x4):
     '''
